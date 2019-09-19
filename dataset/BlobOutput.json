@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText2",
+	"name": "BlobOutput",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorageLinkedService",
