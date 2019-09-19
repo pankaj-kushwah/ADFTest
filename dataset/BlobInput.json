@@ -1,5 +1,5 @@
 {
-	"name": "BlobInput_Pankaj",
+	"name": "BlobInput",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorageLinkedService",
